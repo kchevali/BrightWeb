@@ -1,0 +1,6 @@
+# Robots.txt file from http://www.brightcleaningservices.org
+
+Sitemap: http://www.brightcleaningservices.org/sitemap.xml
+
+User-agent: *
+Disallow:
